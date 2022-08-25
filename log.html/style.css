@@ -1,0 +1,20 @@
+body{
+    background-color:white;
+
+}
+
+
+
+.mydiv1{
+    background-color:white;
+    color: rgb(8, 8, 8);
+    border: 5px solid white;
+    height: 470px;
+    width: 380px;
+}
+.mydiv2{
+    background-color: blue;
+    color: white;
+    width: 250px;
+    height: 28px;
+}
